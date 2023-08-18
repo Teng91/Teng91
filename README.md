@@ -5,7 +5,7 @@
 -->
 
 <p align="center">
-  <img src="Joy_BG.png" />
+  <img src="Joy_bg.png" />
 </p>
 
 # Hi there 👋 I'm Chiao-Yin.
