@@ -4,7 +4,8 @@
 <p align="center">
   <img src="Joy_bg.png" />
 </p>
-# Hi there 👋 I'm Chiao-Yin.
+
+### Hi there 👋 I'm Chiao-Yin.
 
 - 🎓 Bachelor of Bioenvironmental Systems Engineering in National Taiwan University.
 - 🎓 Master of Biomechatronics Engineering in National Taiwan University.
