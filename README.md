@@ -1,9 +1,9 @@
-| <a href="https://github.com/Teng91"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Teng91&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>  |  <a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/Teng91)"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Teng91&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/Teng91"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Teng91&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Teng91's github stats" /></a>  |  <a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/Teng91)"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Teng91&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Teng91&label=Profile%20Views&color=0&icon=1&pretty=false" />
 </a>
-        
+
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Pytorch](https://img.shields.io/badge/Pytorch-14354C?style=for-the-badge&logo=python&logoColor=white) 
