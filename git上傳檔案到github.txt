@@ -1,0 +1,4 @@
+cd 檔案路徑位址
+git add .
+git commit -m "new files upload" ("可自行新增備註")
+git push -u origin main
