@@ -1,0 +1,9 @@
+# Github版本衝突
+
+git pull origin main
+
+git add .
+
+git commit -m "Merge remote-tracking branch 'origin/main'"
+
+git push origin main
