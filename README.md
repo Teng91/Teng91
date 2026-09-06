@@ -19,7 +19,7 @@
 
 ## 👋 About Me
 
-I'm an **AI Platform Engineer** focused on turning LLM capabilities into reliable, production-ready systems. I work across **AI agents, retrieval-augmented generation (RAG), backend services, and cloud-native infrastructure**.
+I'm an **Senior AI Engineer** focused on turning LLM capabilities into reliable, production-ready systems. I work across **AI agents, retrieval-augmented generation (RAG), backend services, and cloud-native infrastructure**.
 
 My engineering path began with **image processing, machine learning, Raspberry Pi, and medical informatics**. It later expanded into **IoT/cloud data integration and backend APIs**, and now centers on enterprise AI platforms and reusable AI tooling.
 
