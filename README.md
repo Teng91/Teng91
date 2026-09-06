@@ -34,7 +34,7 @@ My engineering path began with **image processing, machine learning, Raspberry P
 
 | Competition / Award | Issuer | Result | Category |
 |:---|:---|:---:|:---:|
-| [**2023 National Agricultural Science Award**](https://www.aat.org.tw/Web/ListDetail.aspx?OrgID=511h6qK6PqA%3d&PageWebID=ZO%2fZRyNcE1k%3d&ListID=r9hkHSPjkRg%3d) — Crop Pest Monitoring System R&D Team (作物害蟲監測系統研發團) | Ministry of Agriculture, Taiwan | 🏆 **Outstanding Award · 1st Place** | **Industry Leadership** |
+| [**2023 National Agricultural Science Award**](https://www.aat.org.tw/Web/ListDetail.aspx?OrgID=511h6qK6PqA%3d&PageWebID=ZO%2fZRyNcE1k%3d&ListID=r9hkHSPjkRg%3d) — Crop Pest Monitoring System R&D Team (作物害蟲監測系統) | Ministry of Agriculture, Taiwan | 🏆 **Outstanding Award · 1st Place** | **Industry Leadership** |
 
 ---
 
