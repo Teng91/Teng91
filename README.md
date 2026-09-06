@@ -34,7 +34,7 @@ My engineering path began with **image processing, machine learning, Raspberry P
 
 | Competition / Award | Issuer | Result | Category |
 |:---|:---|:---:|:---:|
-| **National Agricultural Science Award** (國家農業科學獎) | Ministry of Agriculture, Taiwan | 🏆 **Excellence Award · 1st Place** | **Industry Leadership** |
+| [**2023 National Agricultural Science Award**](https://www.moa.gov.tw/theme_data.php?id=6696&theme=announcement) (國家農業科學獎) | Ministry of Agriculture, Taiwan | 🏆 **Excellence Award · 1st Place** | **Industry Leadership** |
 
 ---
 
