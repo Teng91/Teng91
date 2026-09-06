@@ -1,6 +1,6 @@
 <!-- =========================== HERO =========================== -->
 <a href="https://github.com/Teng91">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:2563EB,100:06B6D4&height=230&section=header&text=Joy%20Teng&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=AI%20Platform%20Engineer&descSize=22&descAlignY=58&animation=fadeIn" alt="Joy Teng — AI Platform Engineer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:2563EB,100:06B6D4&height=230&section=header&text=Joy%20Teng&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Senior%20AI%20Engineer&descSize=22&descAlignY=58&animation=fadeIn" alt="Joy Teng — Senior AI Engineer" />
 </a>
 
 <p align="center">
@@ -69,10 +69,6 @@ My engineering path began with **image processing, machine learning, Raspberry P
   <img src="https://img.shields.io/badge/Milvus-00A1EA?style=flat-square&logoColor=white" alt="Milvus" />
 </p>
 
-<details>
-<summary><b>Also worked with</b> &nbsp;·&nbsp; full technical toolbox</summary>
-<br/>
-
 #### 🧠 &nbsp;AI · LLM · Retrieval
 
 <p>
@@ -107,27 +103,6 @@ My engineering path began with **image processing, machine learning, Raspberry P
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-</p>
-
-</details>
-
----
-
-## 🧭 Engineering Journey
-
-| Focus | Public work |
-|:---|:---|
-| **AI Platforms & RAG** | [Chatbot Plugin](https://github.com/Teng91/chatbot-plugin) · [Chatbot Plugin SDK](https://github.com/Teng91/chatbot-plugin-sdk) |
-| **Backend & Cloud Integration** | [RESTful Server with APIs](https://github.com/Teng91/RESTful-server-with-APIs) · [WISE-PaaS](https://github.com/Teng91/WISE-PaaS) |
-| **Applied ML & Vision** | [Machine Learning](https://github.com/Teng91/Machine-Learning) · [Image Processing](https://github.com/Teng91/Image-Processing) · [YOLO-v4](https://github.com/Teng91/YOLO-v4) |
-| **Research & Prototyping** | [Medical Informatics](https://github.com/Teng91/Medical-Informatics) · [Raspberry Pi](https://github.com/Teng91/Raspberry-Pi) |
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Teng91&theme=tokyo-night&hide_border=true&area=true&custom_title=Joy%27s%20Contribution%20Graph" alt="Joy Teng's GitHub contribution activity graph" />
 </p>
 
 ---
