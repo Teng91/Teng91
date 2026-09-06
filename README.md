@@ -1,58 +1,144 @@
-# Hi, I'm Joy Teng 👋
+<!-- =========================== HERO =========================== -->
+<a href="https://github.com/Teng91">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:2563EB,100:06B6D4&height=230&section=header&text=Joy%20Teng&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=AI%20Platform%20Engineer&descSize=22&descAlignY=58&animation=fadeIn" alt="Joy Teng — AI Platform Engineer" />
+</a>
 
-I'm an AI Platform Engineer focused on turning LLM capabilities into reliable, production-ready systems. My work spans AI agents, retrieval-augmented generation (RAG), backend services, and cloud-native infrastructure.
+<p align="center">
+  <a href="https://github.com/Teng91">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=700&color=3B82F6&center=true&vCenter=true&width=820&lines=Building+production-ready+AI+applications;Agentic+AI+%C2%B7+RAG+%C2%B7+MCP+%C2%B7+LLM+Systems;From+applied+ML+to+enterprise+AI+platforms" alt="Building production-ready AI applications" />
+  </a>
+</p>
 
-My engineering journey started with image processing, machine learning, Raspberry Pi, and medical informatics projects. It later expanded into IoT/cloud data integration and backend APIs, and now centers on enterprise AI platforms and reusable AI tooling.
+<p align="center">
+  <a href="https://www.linkedin.com/in/chiao-yin-teng-0a0a79258/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:joy68304276@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Teng91?tab=followers"><img src="https://img.shields.io/github/followers/Teng91?style=for-the-badge&color=181717&logo=github&logoColor=white&label=Follow" alt="GitHub followers" /></a>
+</p>
 
-## What I Work On
+---
 
-- Designing agentic AI workflows and MCP-based tool integrations
-- Building hybrid RAG pipelines for document intelligence and knowledge retrieval
-- Developing FastAPI services and reusable Python SDKs
-- Supporting multiple LLM providers and self-hosted model serving
-- Deploying and operating AI workloads with Docker and Kubernetes
+## 👋 About Me
 
-## Selected Work
+I'm an **AI Platform Engineer** focused on turning LLM capabilities into reliable, production-ready systems. I work across **AI agents, retrieval-augmented generation (RAG), backend services, and cloud-native infrastructure**.
 
-### Enterprise AI Platform · Pegatron
+My engineering path began with **image processing, machine learning, Raspberry Pi, and medical informatics**. It later expanded into **IoT/cloud data integration and backend APIs**, and now centers on enterprise AI platforms and reusable AI tooling.
 
-Contributing to an enterprise platform for document intelligence and AI-powered workflows.
+- 🤖 **Agentic AI Systems** — Building tool-using workflows, MCP integrations, and multi-step AI applications.
+- 📚 **Knowledge & Document Intelligence** — Designing hybrid retrieval and RAG pipelines for enterprise information.
+- ⚙️ **AI Backend Engineering** — Developing reusable Python SDKs and FastAPI services for production workloads.
+- ☁️ **Cloud-Native Delivery** — Supporting containerized AI services and self-hosted model infrastructure.
 
-- Agent integration and MCP tool calling
-- Hybrid retrieval and RAG pipelines
-- Multi-model LLM support and prompt workflows
-- Document translation and processing services
-- FastAPI-based backend development
+---
 
-> Some professional work is proprietary, so this section focuses on responsibilities and technical scope rather than internal implementation details.
+## 🚀 Selected Work
 
-### [Chatbot Plugin](https://github.com/Teng91/chatbot-plugin)
+<table>
+<tr>
+  <td width="185"><b>Enterprise AI Platform</b><br/><sub>Pegatron</sub></td>
+  <td>Document intelligence and AI-powered workflows involving agent integration, MCP tool calling, hybrid RAG, multi-model LLM support, document processing, and FastAPI backend development.<br/><sub>Professional work is proprietary; descriptions focus on responsibilities and technical scope.</sub></td>
+</tr>
+<tr>
+  <td><a href="https://github.com/Teng91/chatbot-plugin"><b>Chatbot Plugin</b></a><br/><sub>Python · FastAPI · RAG</sub></td>
+  <td>A pluggable conversational service that answers questions from collected articles, analyses, and tags, with configurable LLM providers, migrations, and automated tests.</td>
+</tr>
+<tr>
+  <td><a href="https://github.com/Teng91/chatbot-plugin-sdk"><b>Chatbot Plugin SDK</b></a><br/><sub>Python · Vector Search</sub></td>
+  <td>A reusable SDK for RAG article ingestion and querying, separating vector-storage workflows into clear read and write interfaces.</td>
+</tr>
+<tr>
+  <td><a href="https://github.com/Teng91/WISE-PaaS"><b>WISE-PaaS Integration</b></a><br/><sub>IoT · Cloud Data</sub></td>
+  <td>An industry–academia project that processes environmental and pest-monitoring data and uploads it to Advantech WISE-PaaS through its Edge SDK.</td>
+</tr>
+</table>
 
-A pluggable, RAG-enabled conversational service for answering questions from collected articles, analyses, and tags. Built as a Python package with FastAPI, configurable LLM providers, database migrations, and automated tests.
+---
 
-### [Chatbot Plugin SDK](https://github.com/Teng91/chatbot-plugin-sdk)
+## 🛠️ Tech Stack
 
-A reusable Python SDK for RAG article ingestion and querying, separating vector-storage workflows into clear read and write interfaces.
+#### ⭐ &nbsp;Core
 
-### [WISE-PaaS Data Integration](https://github.com/Teng91/WISE-PaaS)
+<p>
+  <img src="https://img.shields.io/badge/Agentic_AI-7C3AED?style=flat-square&logoColor=white" alt="Agentic AI" />
+  <img src="https://img.shields.io/badge/MCP-111827?style=flat-square&logoColor=white" alt="MCP" />
+  <img src="https://img.shields.io/badge/RAG-2563EB?style=flat-square&logoColor=white" alt="RAG" />
+  <img src="https://img.shields.io/badge/LLM-0EA5E9?style=flat-square&logoColor=white" alt="LLM" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Milvus-00A1EA?style=flat-square&logoColor=white" alt="Milvus" />
+</p>
 
-An industry–academia IoT project that processes environmental and pest-monitoring data and sends it to Advantech WISE-PaaS through its Edge SDK.
+<details>
+<summary><b>Also worked with</b> &nbsp;·&nbsp; full technical toolbox</summary>
+<br/>
 
-## Technical Toolbox
+#### 🧠 &nbsp;AI · LLM · Retrieval
 
-**AI & LLM:** LangChain, LangGraph, RAG, MCP, OpenAI-compatible APIs, vLLM, Milvus
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/vLLM-EE4C2C?style=flat-square&logoColor=white" alt="vLLM" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-6366F1?style=flat-square&logoColor=white" alt="Prompt Engineering" />
+</p>
 
-**Backend & Data:** Python, FastAPI, PostgreSQL, MongoDB, Redis, Pandas, NumPy
+#### 🌐 &nbsp;Backend · Data
 
-**ML & Computer Vision:** PyTorch, scikit-learn, image processing, YOLO
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+</p>
 
-**Infrastructure:** Docker, Kubernetes, GitHub Actions, Linux
+#### 📊 &nbsp;Machine Learning · Computer Vision
 
-## Earlier Projects
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/YOLO-111F68?style=flat-square&logoColor=white" alt="YOLO" />
+</p>
 
-My public repositories also document earlier exploration in [medical informatics](https://github.com/Teng91/Medical-Informatics), [machine learning](https://github.com/Teng91/Machine-Learning), [image processing](https://github.com/Teng91/Image-Processing), and [Raspberry Pi](https://github.com/Teng91/Raspberry-Pi). Together, they show the path from applied data and vision work to backend, cloud, and AI platform engineering.
+#### ☁️ &nbsp;Infrastructure · Delivery
 
-## Connect
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chiao-yin-teng-0a0a79258/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:joy68304276@gmail.com)
+</details>
+
+---
+
+## 🧭 Engineering Journey
+
+| Focus | Public work |
+|:---|:---|
+| **AI Platforms & RAG** | [Chatbot Plugin](https://github.com/Teng91/chatbot-plugin) · [Chatbot Plugin SDK](https://github.com/Teng91/chatbot-plugin-sdk) |
+| **Backend & Cloud Integration** | [RESTful Server with APIs](https://github.com/Teng91/RESTful-server-with-APIs) · [WISE-PaaS](https://github.com/Teng91/WISE-PaaS) |
+| **Applied ML & Vision** | [Machine Learning](https://github.com/Teng91/Machine-Learning) · [Image Processing](https://github.com/Teng91/Image-Processing) · [YOLO-v4](https://github.com/Teng91/YOLO-v4) |
+| **Research & Prototyping** | [Medical Informatics](https://github.com/Teng91/Medical-Informatics) · [Raspberry Pi](https://github.com/Teng91/Raspberry-Pi) |
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Teng91&theme=tokyo-night&hide_border=true&area=true&custom_title=Joy%27s%20Contribution%20Graph" alt="Joy Teng's GitHub contribution activity graph" />
+</p>
+
+---
+
+<p align="center">
+  💬 <i>Always happy to discuss — Agentic AI · RAG · MCP · LLM Systems · Backend Engineering</i>
+</p>
+
+<p align="center">
+  <a href="mailto:joy68304276@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/chiao-yin-teng-0a0a79258/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:2563EB,100:06B6D4&height=110&section=footer" alt="Footer" />
