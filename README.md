@@ -30,6 +30,14 @@ My engineering path began with **image processing, machine learning, Raspberry P
 
 ---
 
+## 🏆 Honors & Awards
+
+| Competition / Award | Issuer | Result | Category |
+|:---|:---|:---:|:---:|
+| **National Agricultural Science Award** (國家農業科學獎) | Ministry of Agriculture, Taiwan | 🏆 **Excellence Award · 1st Place** | **Industry Leadership** |
+
+---
+
 ## 💼 Experience & Education
 
 #### Experience
