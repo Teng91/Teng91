@@ -1,90 +1,58 @@
-# Hi there 👋 I'm Joy Teng
+# Hi, I'm Joy Teng 👋
 
-AI Platform Engineer passionate about building production-ready AI applications, LLM systems, and scalable backend services.
+I'm an AI Platform Engineer focused on turning LLM capabilities into reliable, production-ready systems. My work spans AI agents, retrieval-augmented generation (RAG), backend services, and cloud-native infrastructure.
 
-Currently focusing on:
+My engineering journey started with image processing, machine learning, Raspberry Pi, and medical informatics projects. It later expanded into IoT/cloud data integration and backend APIs, and now centers on enterprise AI platforms and reusable AI tooling.
 
-- 🤖 Agentic AI
-- 📚 Retrieval-Augmented Generation (RAG)
-- 🧠 Large Language Models (LLMs)
-- ⚙️ Backend Development
-- ☁️ Cloud Native Infrastructure
+## What I Work On
 
----
+- Designing agentic AI workflows and MCP-based tool integrations
+- Building hybrid RAG pipelines for document intelligence and knowledge retrieval
+- Developing FastAPI services and reusable Python SDKs
+- Supporting multiple LLM providers and self-hosted model serving
+- Deploying and operating AI workloads with Docker and Kubernetes
 
-## 🚀 Featured Projects
+## Selected Work
 
-### 🤖 Enterprise AI Platform *(Pegatron)*
+### Enterprise AI Platform · Pegatron
 
-An enterprise AI platform supporting document intelligence and AI-powered workflows.
+Contributing to an enterprise platform for document intelligence and AI-powered workflows.
 
-**Highlights**
+- Agent integration and MCP tool calling
+- Hybrid retrieval and RAG pipelines
+- Multi-model LLM support and prompt workflows
+- Document translation and processing services
+- FastAPI-based backend development
 
-- Hybrid RAG Pipeline
-- AI Agent Integration
-- MCP Tool Calling
-- Multi-model LLM Support
-- Prompt Engineering
-- Document Translation
-- FastAPI Backend
+> Some professional work is proprietary, so this section focuses on responsibilities and technical scope rather than internal implementation details.
 
----
+### [Chatbot Plugin](https://github.com/Teng91/chatbot-plugin)
 
-## 💻 Tech Stack
+A pluggable, RAG-enabled conversational service for answering questions from collected articles, analyses, and tags. Built as a Python package with FastAPI, configurable LLM providers, database migrations, and automated tests.
 
-### Languages
+### [Chatbot Plugin SDK](https://github.com/Teng91/chatbot-plugin-sdk)
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+A reusable Python SDK for RAG article ingestion and querying, separating vector-storage workflows into clear read and write interfaces.
 
----
+### [WISE-PaaS Data Integration](https://github.com/Teng91/WISE-PaaS)
 
-### Backend
+An industry–academia IoT project that processes environmental and pest-monitoring data and sends it to Advantech WISE-PaaS through its Edge SDK.
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+## Technical Toolbox
 
----
+**AI & LLM:** LangChain, LangGraph, RAG, MCP, OpenAI-compatible APIs, vLLM, Milvus
 
-### AI / LLM
+**Backend & Data:** Python, FastAPI, PostgreSQL, MongoDB, Redis, Pandas, NumPy
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-00599C?style=for-the-badge)
-![MCP](https://img.shields.io/badge/MCP-6C63FF?style=for-the-badge)
-![vLLM](https://img.shields.io/badge/vLLM-FF6F00?style=for-the-badge)
-![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge)
+**ML & Computer Vision:** PyTorch, scikit-learn, image processing, YOLO
 
----
+**Infrastructure:** Docker, Kubernetes, GitHub Actions, Linux
 
-### DevOps
+## Earlier Projects
 
-![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+My public repositories also document earlier exploration in [medical informatics](https://github.com/Teng91/Medical-Informatics), [machine learning](https://github.com/Teng91/Machine-Learning), [image processing](https://github.com/Teng91/Image-Processing), and [Raspberry Pi](https://github.com/Teng91/Raspberry-Pi). Together, they show the path from applied data and vision work to backend, cloud, and AI platform engineering.
 
----
+## Connect
 
-### Machine Learning
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
----
-
-## 📫 Connect with Me
-
-<div>
-  <a href="mailto:joy68304276@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-
-  <a href="https://www.linkedin.com/in/chiao-yin-teng-0a0a79258/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chiao-yin-teng-0a0a79258/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:joy68304276@gmail.com)
