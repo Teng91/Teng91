@@ -19,7 +19,7 @@
 
 ## 👋 About Me
 
-I'm an **Senior AI Engineer** focused on turning LLM capabilities into reliable, production-ready systems. I work across **AI agents, retrieval-augmented generation (RAG), backend services, and cloud-native infrastructure**.
+I'm a **Senior AI Engineer** focused on turning LLM capabilities into reliable, production-ready systems. I work across **AI agents, retrieval-augmented generation (RAG), backend services, and cloud-native infrastructure**.
 
 My engineering path began with **image processing, machine learning, Raspberry Pi, and medical informatics**. It later expanded into **IoT/cloud data integration and backend APIs**, and now centers on enterprise AI platforms and reusable AI tooling.
 
@@ -30,24 +30,35 @@ My engineering path began with **image processing, machine learning, Raspberry P
 
 ---
 
-## 🚀 Selected Work
+## 💼 Experience & Education
+
+#### Experience
 
 <table>
 <tr>
-  <td width="185"><b>Enterprise AI Platform</b><br/><sub>Pegatron</sub></td>
-  <td>Document intelligence and AI-powered workflows involving agent integration, MCP tool calling, hybrid RAG, multi-model LLM support, document processing, and FastAPI backend development.<br/><sub>Professional work is proprietary; descriptions focus on responsibilities and technical scope.</sub></td>
+  <td valign="top" width="190"><b>Jul 2026 – Present</b><br/><sub>Taipei, Taiwan · On-site</sub></td>
+  <td><b>Senior AI Engineer</b><br/><a href="https://www.pegatroncorp.com/"><b>Pegatron</b></a> · Full-time</td>
 </tr>
 <tr>
-  <td><a href="https://github.com/Teng91/chatbot-plugin"><b>Chatbot Plugin</b></a><br/><sub>Python · FastAPI · RAG</sub></td>
-  <td>A pluggable conversational service that answers questions from collected articles, analyses, and tags, with configurable LLM providers, migrations, and automated tests.</td>
+  <td valign="top"><b>May 2025 – Jul 2026</b><br/><sub>Taipei, Taiwan · On-site</sub></td>
+  <td><b>AI Engineer</b><br/><a href="https://www.pegatroncorp.com/"><b>Pegatron</b></a> · Full-time</td>
 </tr>
 <tr>
-  <td><a href="https://github.com/Teng91/chatbot-plugin-sdk"><b>Chatbot Plugin SDK</b></a><br/><sub>Python · Vector Search</sub></td>
-  <td>A reusable SDK for RAG article ingestion and querying, separating vector-storage workflows into clear read and write interfaces.</td>
+  <td valign="top"><b>Nov 2024 – Apr 2025</b><br/><sub>Taipei, Taiwan · On-site</sub></td>
+  <td><b>Software Engineer</b><br/><b>TRI</b> · Full-time</td>
+</tr>
+</table>
+
+#### Education
+
+<table>
+<tr>
+  <td valign="top" width="190"><b>Sep 2022 – Aug 2024</b></td>
+  <td><b>Master of Science · Biomechatronics Engineering</b><br/><a href="https://www.ntu.edu.tw/english/"><b>National Taiwan University (NTU)</b></a></td>
 </tr>
 <tr>
-  <td><a href="https://github.com/Teng91/WISE-PaaS"><b>WISE-PaaS Integration</b></a><br/><sub>IoT · Cloud Data</sub></td>
-  <td>An industry–academia project that processes environmental and pest-monitoring data and uploads it to Advantech WISE-PaaS through its Edge SDK.</td>
+  <td valign="top"><b>Sep 2018 – Jun 2022</b></td>
+  <td><b>Bachelor of Science · Bioenvironmental Systems Engineering</b><br/><a href="https://www.ntu.edu.tw/english/"><b>National Taiwan University (NTU)</b></a></td>
 </tr>
 </table>
 
