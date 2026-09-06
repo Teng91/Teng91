@@ -45,7 +45,7 @@ My engineering path began with **image processing, machine learning, Raspberry P
 </tr>
 <tr>
   <td valign="top"><b>Nov 2024 – Apr 2025</b><br/><sub>Taipei, Taiwan · On-site</sub></td>
-  <td><b>Software Engineer</b><br/><b>TRI</b> · Full-time</td>
+  <td><b>Software Engineer</b><br/><a href="https://www.tri.com.tw/tw/index.html"><b>TRI</b></a> · Full-time</td>
 </tr>
 </table>
 
