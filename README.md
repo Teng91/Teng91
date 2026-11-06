@@ -30,21 +30,17 @@ My engineering path began with **image processing, machine learning, Raspberry P
 
 ---
 
-## 🏆 Honors & Awards
-
-| Competition / Award | Issuer | Result | Category |
-|:---|:---|:---:|:---:|
-| [**2023 National Agricultural Science Award**](https://www.aat.org.tw/Web/ListDetail.aspx?OrgID=511h6qK6PqA%3d&PageWebID=ZO%2fZRyNcE1k%3d&ListID=r9hkHSPjkRg%3d) — Crop Pest Monitoring System R&D Team (作物害蟲監測系統) | Ministry of Agriculture, Taiwan | 🏆 **Outstanding Award · 1st Place** | **Industry Leadership** |
-
----
-
 ## 💼 Experience & Education
 
 #### Experience
 
 <table>
 <tr>
-  <td valign="top" width="190"><b>Jul 2026 – Present</b><br/><sub>Taipei, Taiwan · On-site</sub></td>
+  <td valign="top" width="190"><b>Nov 2026 – Present</b><br/><sub>Taipei, Taiwan · On-site</sub></td>
+  <td><b>Assistant Manager</b><br/><a href="https://www.sinotrade.com.tw/"><b>SinoPac</b></a> · Full-time</td>
+</tr>
+<tr>
+  <td valign="top"><b>Jul 2026 – Oct 2026</b><br/><sub>Taipei, Taiwan · On-site</sub></td>
   <td><b>Senior AI Engineer</b><br/><a href="https://www.pegatroncorp.com/"><b>Pegatron</b></a> · Full-time</td>
 </tr>
 <tr>
@@ -69,6 +65,14 @@ My engineering path began with **image processing, machine learning, Raspberry P
   <td><b>Bachelor of Science · Bioenvironmental Systems Engineering</b><br/><a href="https://www.ntu.edu.tw/english/"><b>National Taiwan University (NTU)</b></a></td>
 </tr>
 </table>
+
+---
+
+## 🏆 Honors & Awards
+
+| Competition / Award | Issuer | Result | Category |
+|:---|:---|:---:|:---:|
+| [**2023 National Agricultural Science Award**](https://www.aat.org.tw/Web/ListDetail.aspx?OrgID=511h6qK6PqA%3d&PageWebID=ZO%2fZRyNcE1k%3d&ListID=r9hkHSPjkRg%3d) — Crop Pest Monitoring System R&D Team (作物害蟲監測系統) | Ministry of Agriculture, Taiwan | 🏆 **Outstanding Award · 1st Place** | **Industry Leadership** |
 
 ---
 
