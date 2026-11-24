@@ -44,7 +44,7 @@ My engineering path began with **image processing, machine learning, Raspberry P
   <td><b>Senior AI Engineer</b><br/><a href="https://www.pegatroncorp.com/"><b>Pegatron</b></a> · Full-time</td>
 </tr>
 <tr>
-  <td valign="top"><b>May 2025 – Jul 2026</b><br/><sub>Taipei, Taiwan · On-site</sub></td>
+  <td valign="top"><b>May 2025 – Jun 2026</b><br/><sub>Taipei, Taiwan · On-site</sub></td>
   <td><b>AI Engineer</b><br/><a href="https://www.pegatroncorp.com/"><b>Pegatron</b></a> · Full-time</td>
 </tr>
 <tr>
